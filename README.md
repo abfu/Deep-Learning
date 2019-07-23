@@ -13,4 +13,6 @@
 
 [Optimization Methods](https://github.com/abfu/Deep-Learning/blob/master/Optimization%2Bmethods.ipynb)
 
+[TensorFlow Tutorial](https://github.com/abfu/Deep-Learning/blob/master/Tensorflow%2BTutorial.ipynb)
+
 course info: https://www.coursera.org/specializations/deep-learning
