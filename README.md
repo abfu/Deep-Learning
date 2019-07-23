@@ -11,6 +11,6 @@
 
 [Gradient Checking](https://github.com/abfu/Deep-Learning/blob/master/Gradient%2BChecking%2Bv1.ipynb)
 
-[Optimization Methods(https://github.com/abfu/Deep-Learning/blob/master/Optimization%2Bmethods.ipynb)
+[Optimization Methods](https://github.com/abfu/Deep-Learning/blob/master/Optimization%2Bmethods.ipynb)
 
 course info: https://www.coursera.org/specializations/deep-learning
