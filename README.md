@@ -15,4 +15,6 @@
 
 [TensorFlow Tutorial](https://github.com/abfu/Deep-Learning/blob/master/Tensorflow%2BTutorial.ipynb)
 
+[Concolutional Neural Network with Numpy] (https://github.com/abfu/Deep-Learning/blob/master/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+
 course info: https://www.coursera.org/specializations/deep-learning
