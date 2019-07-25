@@ -18,4 +18,5 @@
 [Convolutional Neural Network with Numpy](https://github.com/abfu/Deep-Learning/blob/master/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
 
 [Convolutional Neural Network with TensorFlow](https://github.com/abfu/Deep-Learning/blob/master/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+
 course info: https://www.coursera.org/specializations/deep-learning
