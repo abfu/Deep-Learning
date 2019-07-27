@@ -19,4 +19,6 @@
 
 [Convolutional Neural Network with TensorFlow](https://github.com/abfu/Deep-Learning/blob/master/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
 
+[Autonomous Driving - Car Detection with YOLO](https://github.com/abfu/Deep-Learning/blob/master/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+
 course info: https://www.coursera.org/specializations/deep-learning
