@@ -21,4 +21,6 @@
 
 [Autonomous Driving - Car Detection with YOLO](https://github.com/abfu/Deep-Learning/blob/master/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 
+[Art Generation with Neural Style Transfer](https://github.com/abfu/Deep-Learning/blob/master/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+
 course info: https://www.coursera.org/specializations/deep-learning
