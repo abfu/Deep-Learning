@@ -1,5 +1,5 @@
 # Projects from the deep learning course by 
-# [deeplearning.ai](https://www.deeplearning.ai/)
+ [deeplearning.ai](https://www.deeplearning.ai/)
 
 ## Basic Architecture of Neural Networks
 
