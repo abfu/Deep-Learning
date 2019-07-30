@@ -1,4 +1,5 @@
-# Projects from the deep learning course by [deeplearning.ai](https://www.deeplearning.ai/)
+# Projects from the deep learning course by 
+# [deeplearning.ai](https://www.deeplearning.ai/)
 
 ## Basic Architecture of Neural Networks
 
@@ -28,6 +29,6 @@
 
 ## Recurrent Neural Networks
 
-[Building a Recurrent Neural Network Setp by Step]()
+[Building a Recurrent Neural Network Setp by Step](https://github.com/abfu/Deep-Learning/blob/master/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
 
 course info: https://www.coursera.org/specializations/deep-learning
