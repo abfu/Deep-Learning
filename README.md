@@ -15,6 +15,8 @@
 
 [TensorFlow Tutorial](https://github.com/abfu/Deep-Learning/blob/master/Tensorflow%2BTutorial.ipynb)
 
+## Convolutional Neural Networks
+
 [Convolutional Neural Network with Numpy](https://github.com/abfu/Deep-Learning/blob/master/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
 
 [Convolutional Neural Network with TensorFlow](https://github.com/abfu/Deep-Learning/blob/master/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
@@ -22,5 +24,9 @@
 [Autonomous Driving - Car Detection with YOLO](https://github.com/abfu/Deep-Learning/blob/master/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 
 [Art Generation with Neural Style Transfer](https://github.com/abfu/Deep-Learning/blob/master/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+
+## Recurrent Neural Networks
+
+[Building a Recurrent Neural Network Setp by Step]()
 
 course info: https://www.coursera.org/specializations/deep-learning
